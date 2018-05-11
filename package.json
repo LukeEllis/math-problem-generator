@@ -1,0 +1,17 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "main": "problemGenerator.js",
+  "author": "Luke Ellis",
+  "engines": {
+    "node": "8.9.2",
+    "npm": "5.6.0"
+  },
+  "scripts": {
+    "start": "node problemGenerator.js"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.85.0"
+  }
+}
