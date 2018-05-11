@@ -9,6 +9,5 @@ program idea:  creating math problem sets.
 
 ## Documents
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
-- https://codeburst.io/a-simple-calculator-app-using-react-and-node-42c9b0ea1df8
-    *note* ignore the React portion of this lab
+- https://stackoverflow.com/questions/5834318/are-variable-operators-possible?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
 - http://yab-jab.blogspot.com/2012/03/nodejs-creating-calculator-program.html
